@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Chalindu Kodikara</h1>
 
-<img src="https://komarev.com/ghpvc/?username=chalindukodikara&label=Profile%20views&color=0e75b6&style=flat" alt="chalindukodikara" /> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chalindukodikara) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@chalindu)
+<img src="https://komarev.com/ghpvc/?username=chalindukodikara&label=Profile%20views&color=0e75b6&style=flat" alt="chalindukodikara" /> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chalindu-kodikara) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@chalindu)
 
 I'm a **Senior Software Engineer** with strong experience in **cloud-native technologies, containerization, and backend development**. I’m passionate about building **scalable systems**, solving real-world engineering problems, and continuously exploring emerging technologies.
 
@@ -16,7 +16,7 @@ I am also passionate about engaging in **research at the intersection of distrib
 
 ### 📫 Get in Touch
 - Email: **chalindu.18@cse.mrt.ac.lk**
-- LinkedIn: [linkedin.com/in/chalindukodikara](https://linkedin.com/in/chalindukodikara)
+- LinkedIn: [linkedin.com/in/chalindukodikara](https://linkedin.com/in/chalindu-kodikara)
 
 ### Languages and Tools
 

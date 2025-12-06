@@ -9,7 +9,6 @@ I am also passionate about engaging in **research at the intersection of distrib
 ### 💻 What I’m Working With
 - 🔭 **Golang, Kubernetes, Docker, and Cloud-Native Tools**
 - 🏗️ Designing and building scalable, production-grade backend systems
-- ⚙️ Platform engineering, DevOps, and cloud infrastructure
 
 ### 🎓 Education
 - **B.Sc. Engineering (First Class Honors) in Computer Science & Engineering**, *University of Moratuwa*

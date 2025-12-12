@@ -29,7 +29,7 @@ I am also passionate about engaging in **research at the intersection of distrib
 
 <details>
   <summary><b>Stats & Streaks</b></summary>
-  <img src="https://streak-stats.demolab.com?user=chalindukodikara&theme=dark&hide_border=true" alt="chalindukodikara" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=chalindukodikara&theme=dark&hide_border=true" alt="chalindukodikara" />
 </details>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chalindukodikara&theme=github-dark&hide_border=true&point=FFFFFF)](https://github.com/chalindukodikara)

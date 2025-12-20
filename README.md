@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Chalindu Kodikara</h1>
+<h1 align="center">Hey👋, I'm Chalindu Kodikara</h1>
 
 <img src="https://komarev.com/ghpvc/?username=chalindukodikara&label=Profile%20views&color=0e75b6&style=flat" alt="chalindukodikara" /> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/chalindu-kodikara) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@chalindu)
 

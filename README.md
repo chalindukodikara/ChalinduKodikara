@@ -4,7 +4,7 @@
 
 I'm a **Senior Software Engineer** with strong experience in **cloud-native technologies, containerization, and backend development**. I’m passionate about building **scalable systems**, solving real-world engineering problems, and continuously exploring emerging technologies.
 
-I am also passionate about engaging in **research at the intersection of distributed systems, cloud computing, software engineering, and machine learning**.
+I am also passionate about engaging in **research at the intersection of distributed systems, cloud computing, software engineering, edge computing, ubiquitous computing, and machine learning**.
 
 ### 💻 What I’m Working With
 - 🔭 **Golang, Kubernetes, Docker, and Cloud-Native Tools**
